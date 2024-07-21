@@ -1,4 +1,4 @@
-### [Fish Shell](https://fishshell.com/)
+# [Fish Shell](https://fishshell.com/)
 
 [Plugins de fish](https://github.com/topics/fish-plugin)
 <details>
