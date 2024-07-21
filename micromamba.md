@@ -22,6 +22,9 @@ $MAMBA_EXE shell hook --shell fish --root-prefix $MAMBA_ROOT_PREFIX | source
 y hacemos en home:
 ```mv mamba/ .config/  ```
 
+yo voy a ponerle un alias en fish para que cada vez que diga conda, sea micromamba:
+``` alias conda micromamba ```
+
 [^1]: (Modifying RC file "/home/user/.config/fish/config.fish"
 Generating config for root prefix "/home/user/mamba"
 Setting mamba executable to: "/usr/bin/micromamba"
@@ -40,9 +43,6 @@ crear enviroment:
 
 activar enviroment custom:
 ```micromamba activate $env_name$ ```
-
-yo voy a ponerle un alias en fish para que cada vez que diga conda, sea micromamba:
-``` alias conda micromamba ```
 
 ahora hacemos:
 
