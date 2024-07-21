@@ -1,3 +1,4 @@
+## [Micromamba](https://mamba.readthedocs.io/en/latest/user_guide/micromamba.html)
 <details>
 <summary><b>Instalación</b></summary>
 install using paru y fish
@@ -46,5 +47,6 @@ yo voy a ponerle un alias en fish para que cada vez que diga conda, sea micromam
 ahora hacemos:
 
 ```conda install -c conda-forge $packacge$```
+
 ```micromamba config append channels conda-forge```
 </details>
