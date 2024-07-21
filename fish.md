@@ -1,2 +1,1 @@
-https://github.com/Realiserad/fish-ai
-https://github.com/topics/fish-plugin
+[Plugins de fish](https://github.com/topics/fish-plugin)
