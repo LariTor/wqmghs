@@ -11,4 +11,11 @@ para guardar el alias en la config.
 
 ```funcsave <nombre_alias> ```
 
+para setear una variable:
+```set <myvar>```
+
+para eliminar una variable:
+```set -e <myvar>```
+
+TIP: Crear un alias para hacer erase de variables```alias unset 'set --erase'```
 </details>
