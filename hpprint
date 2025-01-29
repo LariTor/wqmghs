@@ -1,0 +1,4 @@
+sudo pacman -S cups hplip
+sudo systemctl start cups.service
+sudo systemctl enable cups.service
+y después es abrir el soft de HP e instalar los drives que sugiere el soft
